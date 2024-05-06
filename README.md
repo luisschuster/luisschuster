@@ -1,5 +1,1 @@
-- Hi, I’m Luis
-
-- I can't code
-
-- Programming Languages I know: none
+why are u even here? there's nothing here. 
