@@ -26,6 +26,8 @@ BuildVersion:		7
     me@luisschuster.dev
   ==> Special Thanks
     @AlexandraAurora
+❯ exit
+Connection to luis closed.
 ~                                                                                                  03:18:52
 ❯
 ```
