@@ -22,7 +22,7 @@ BuildVersion:		7
     Web Development
     Collecting iPhones
     Photography/Videography
-    Experimenting With Technology (Hardware)
+    Experimenting With Technology
   ==> Contact
     me@luisschuster.dev
   ==> Special Thanks
