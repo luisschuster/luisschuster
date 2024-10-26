@@ -25,8 +25,6 @@ BuildVersion:		7
     Experimenting With Technology
   ==> Contact
     me@luisschuster.dev
-  ==> Special Thanks
-    @AlexandraAurora
 ❯ exit
 Connection to luis closed.
 ~                                                                                                  03:18:52
